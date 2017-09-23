@@ -1,0 +1,2 @@
+# WHF-Translate
+Chinese
